@@ -1,0 +1,6 @@
+__pycache__/
+.idea
+.coverage
+.venv
+pytest.ini
+htmlcov
